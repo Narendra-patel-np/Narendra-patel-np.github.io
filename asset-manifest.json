@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c0d569b.css",
-    "main.js": "/static/js/main.4b1c1698.js",
+    "main.css": "/static/css/main.fd8d05aa.css",
+    "main.js": "/static/js/main.f4242769.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Narendra Patel resume.pdf": "/static/media/Narendra Patel resume.cdea22eae01b08e3b039.pdf",
     "static/media/IMG-20221220-WA0002-2.jpg": "/static/media/IMG-20221220-WA0002-2.deb910f5eb2361d4051d.jpg",
     "static/media/Volnow.png": "/static/media/Volnow.6ccc6c397df1ab52847d.png",
     "static/media/sarthi.png": "/static/media/sarthi.7d15bc39e03ea7fa7a6d.png",
     "index.html": "/index.html",
-    "main.7c0d569b.css.map": "/static/css/main.7c0d569b.css.map",
-    "main.4b1c1698.js.map": "/static/js/main.4b1c1698.js.map",
+    "main.fd8d05aa.css.map": "/static/css/main.fd8d05aa.css.map",
+    "main.f4242769.js.map": "/static/js/main.f4242769.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c0d569b.css",
-    "static/js/main.4b1c1698.js"
+    "static/css/main.fd8d05aa.css",
+    "static/js/main.f4242769.js"
   ]
 }
