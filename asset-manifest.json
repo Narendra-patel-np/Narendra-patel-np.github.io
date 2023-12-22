@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.50a17296.css",
+    "main.css": "/static/css/main.701e0379.css",
     "main.js": "/static/js/main.e432f197.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/volunteer.png": "/static/media/volunteer.8ebd5659880680259df1.png",
@@ -10,12 +10,12 @@
     "static/media/sarthiLanding.jpeg": "/static/media/sarthiLanding.90ef417b3b76bf78c15c.jpeg",
     "static/media/IMG-20221220-WA0002-2.jpg": "/static/media/IMG-20221220-WA0002-2.deb910f5eb2361d4051d.jpg",
     "index.html": "/index.html",
-    "main.50a17296.css.map": "/static/css/main.50a17296.css.map",
+    "main.701e0379.css.map": "/static/css/main.701e0379.css.map",
     "main.e432f197.js.map": "/static/js/main.e432f197.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50a17296.css",
+    "static/css/main.701e0379.css",
     "static/js/main.e432f197.js"
   ]
 }
